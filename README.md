@@ -1,2 +1,1 @@
-# First-Repository
-This is my first Repository
+This is just for testing.
